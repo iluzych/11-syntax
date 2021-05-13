@@ -6,6 +6,9 @@ import { skirtumas } from './components/algebra/skirtumas.js';
 import { suma } from './components/algebra/suma.js';
 import { vidurkis } from './components/algebra/vidurkis.js';
 import { vientisasTekstas } from './components/tekstas/vientisasTekstas.js'
+import { pirmojiRaide } from './components/tekstas2/pirmojiRaide.js';
+import { paskutiniojiRaide } from './components/tekstas2/paskutiniojiRaide.js'
+import { viduriniojiRaide } from './components/tekstas2/viduriniojiRaide.js'
 
 // EXECUTION
 

@@ -1,5 +1,8 @@
-function paskutineRaide (word) {
-    return word[word.length - 1];
+function paskutineRaide(text) {
+    if (text === '') {
+        return '';
+    }
+    return text[text.length - 1];
 }
 
 export { paskutineRaide }
