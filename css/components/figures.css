@@ -8,10 +8,10 @@
     border-color: rgb(240, 245, 175);
     background-color: #ddd;
     box-shadow: 0 4px 12px #0002;
-    transition: all 1s;
+    transition: all 2s;
 }
 .kvadratas:hover {
-    transform: rotate(30deg);
+    transform: rotate(590deg);
     border-color: rgba(241, 65, 197, 0.795);
 }
 
